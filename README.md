@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Blood Bank Management System**
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 I’m currently learning **Full stack PHP Devloper**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vaghelaakshay/booking_appointment.git](https://github.com/Vaghelaakshay/booking_appointment.git)
 
